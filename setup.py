@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 setup(name='podfox',
     version='0.1.1',
     description='Podcatcher for the terminal',
-    url='http://github.com/brtmr/podfox',
+    url='http://github.com/wastlmuc/podfox',
     author='Bastian Reitemeier',
     author_email='mail@brtmr.de',
     license='GPLv3',
